@@ -1,0 +1,4 @@
+03-27 08:32:15   Modem Assert LTE_layer1_adx in file layer1_adx_dsp.c at line 623 exp=0 info=[dsp assert:0x5001,0x1021,0xd6ff,0x5:LTEDSP: unknown LTE DSP]
+03-28 11:33:08   Modem Assert LTE_layer1_adx in file layer1_adx_dsp.c at line 623 exp=0 info=[dsp assert:0x5003,0x615,0xd6ff,0x19:LTEDSP: unknown LTE DSP]
+04-03 14:08:51   Modem Assert LCONTROL Task  in file PS/stack/las/rrc/as_ue/src/abstraction_layers/pal/pal_sci_adx.c at line 5277 exp=0 info=[Wait for CPHY_CARD_INFO_CNF  timeout]
+04-06 08:40:29   Modem Assert LTE_layer1_adx in file layer1_adx_dsp.c at line 623 exp=0 info=[dsp assert:0x5001,0x1021,0xd6ff,0x5:LTEDSP: unknown LTE DSP]
